@@ -1,4 +1,4 @@
-# Coded by Rajandran R - www.marketcalls.in / www.openalgo.in
+# Coded surisetty
 import time
 import threading
 import logging
